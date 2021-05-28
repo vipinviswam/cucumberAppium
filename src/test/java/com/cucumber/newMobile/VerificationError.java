@@ -1,4 +1,4 @@
-package com.citic.newMobile;
+package com.cucumber.newMobile;
 
 public class VerificationError {
 
